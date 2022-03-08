@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Vaskova 25780.44
+Uliyanova 18972.19
+Savina 38909.87
+Pashkov 20543.63
+Shilova 16122.75
+Denisov 42889.18
+Sergeev 39651.34
+Lukoyanova 37829.23
